@@ -79,7 +79,8 @@ When I’m not coding or deploying to the cloud, I love engaging in **tech event
 ---
 
 ## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mitul-2210&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://github-readme-stats.vercel.app/api?username=mitul-2210&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mitul-2210&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitul-2210&theme=dark&hide_border=false&layout=compact)  
 
 ---
