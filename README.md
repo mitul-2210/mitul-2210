@@ -91,8 +91,4 @@ When I’m not coding or deploying to the cloud, I love engaging in **tech event
 ---
 
 
-## 🔝 Top Contributions  
-![](https://github-contributor-stats.vercel.app/api?username=mitul-2210&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
 
