@@ -1,6 +1,6 @@
 # 💫 About Me  
 
-### Hey there! 👋 I'm **Aditya Raj**  
+### Hey there! 👋 I'm **Mitul Tandon**  
 🎓 Pre-final Year Engineering Student at **UPES**  
 ☁️ Cloud Computing Enthusiast 
 
